@@ -1,1 +1,3 @@
 Archivo en rama con conflicto
+Cambio en rama con conflicto 1 
+Otro cambio en rama con conflicto 1
