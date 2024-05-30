@@ -1,3 +1,2 @@
 Nuevo archivo en rama con conflicto
 Cambio en rama con conflicto 2 (otra vez)
-Cambio en rama con conflicto 2 (en rama main)
