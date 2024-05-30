@@ -2,4 +2,3 @@ Nuevo archivo en rama sin conflicto
 Cambio en main
 Cambio en rama sin conflicto
 Cambio en rama sin conflicto 2
-Cambio en rama sin conflicto 3
