@@ -3,3 +3,4 @@ Cambio en rama con conflicto 2 (otra vez)
 Nuevo cambio en rama con conflicto 2
 Cambio en rama con conflicto 3
 Nuevo cambio en rama con conflicto 3
+Cambio en main
