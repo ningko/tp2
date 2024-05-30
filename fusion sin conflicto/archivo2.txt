@@ -1,0 +1,2 @@
+Nuevo archivo en rama sin conflicto
+Cambio en rama sin conflicto
